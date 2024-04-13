@@ -9,4 +9,6 @@ Made in a Day for LD55.
 
 Author: Simon Gruening
 
+LD 55 Link: https://github.com/ZirconCode/ludum-dare-55
+
 My Ludum Dare: https://ldjam.com/users/zirconcode/ 
