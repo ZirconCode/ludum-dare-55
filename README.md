@@ -9,6 +9,6 @@ Made in a Day for LD55.
 
 Author: Simon Gruening
 
-LD 55 Link: https://github.com/ZirconCode/ludum-dare-55
+LD 55 Link: [https://github.com/ZirconCode/ludum-dare-55](https://ldjam.com/events/ludum-dare/55/happy-little-demons)
 
 My Ludum Dare: https://ldjam.com/users/zirconcode/ 
